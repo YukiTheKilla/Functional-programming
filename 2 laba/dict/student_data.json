@@ -1,0 +1,23 @@
+[
+    {"name": "Alice", "age": 21, "grades": [86, 91, 78, 89]},
+    {"name": "Bob", "age": 22, "grades": [89, 92, 78, 84]},
+    {"name": "Char", "age": 22, "grades": [96, 89, 91, 92]},
+    {"name": "Dave", "age": 20, "grades": [80, 91, 87, 94]},
+    {"name": "Elica", "age": 21, "grades": [90, 88, 89, 92]},
+    {"name": "Frast", "age": 21, "grades": [82, 95, 80, 87]},
+    {"name": "Grac", "age": 23, "grades": [94, 85, 79, 88]},
+    {"name": "Hen", "age": 19, "grades": [84, 89, 94, 96]},
+    {"name": "Jinx", "age": 18, "grades": [87, 91, 89, 78]},
+    {"name": "Jack", "age": 22, "grades": [89, 90, 88, 91]},
+    {"name": "Kelly", "age": 19, "grades": [78, 83, 91, 89]},
+    {"name": "Lia", "age": 20, "grades": [92, 88, 84, 90]},
+    {"name": "Mia", "age": 21, "grades": [79, 86, 97, 92]},
+    {"name": "Noah", "age": 22, "grades": [89, 91, 80, 96]},
+    {"name": "Via", "age": 18, "grades": [86, 93, 91, 89]},
+    {"name": "Piter", "age": 20, "grades": [99, 94, 84, 88]},
+    {"name": "Quinn", "age": 21, "grades": [92, 78, 95, 97]},
+    {"name": "Ryn", "age": 22, "grades": [78, 80, 88, 89]},
+    {"name": "Sopha", "age": 20, "grades": [91, 87, 89, 92]},
+    {"name": "Thom", "age": 21, "grades": [86, 93, 92, 78]}
+    
+]

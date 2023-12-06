@@ -1,0 +1,22 @@
+[
+    {"order_id": 1, "customer_id": 101, "amount": 150.0},
+    {"order_id": 2, "customer_id": 103, "amount": 200.0},
+    {"order_id": 3, "customer_id": 107, "amount": 75.0},
+    {"order_id": 4, "customer_id": 110, "amount": 100.0},
+    {"order_id": 5, "customer_id": 112, "amount": 150.0},
+    {"order_id": 6, "customer_id": 113, "amount": 175.0},
+    {"order_id": 7, "customer_id": 115, "amount": 25.0},
+    {"order_id": 8, "customer_id": 116, "amount": 180.0},
+    {"order_id": 9, "customer_id": 120, "amount": 20.0},
+    {"order_id": 10, "customer_id": 121, "amount": 35.0},
+    {"order_id": 11, "customer_id": 124, "amount": 80.0},
+    {"order_id": 12, "customer_id": 129, "amount": 10.0},
+    {"order_id": 13, "customer_id": 130, "amount": 95.0},
+    {"order_id": 14, "customer_id": 131, "amount": 30.0},
+    {"order_id": 15, "customer_id": 132, "amount": 35.0},
+    {"order_id": 16, "customer_id": 135, "amount": 25.0},
+    {"order_id": 17, "customer_id": 140, "amount": 80.0},
+    {"order_id": 18, "customer_id": 143, "amount": 150.0},
+    {"order_id": 19, "customer_id": 147, "amount": 25.0},
+    {"order_id": 20, "customer_id": 150, "amount": 35.0}
+  ]

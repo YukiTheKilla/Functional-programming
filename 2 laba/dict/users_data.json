@@ -1,0 +1,22 @@
+[
+    {"name": "Alice", "expenses": [15, 35, 45, 110, 190]},
+    {"name": "Bob", "expenses": [10, 15, 75, 80, 115]},
+    {"name": "Char", "expenses": [10, 35, 85, 90, 110]},
+    {"name": "Dave", "expenses": [10, 55, 60, 95, 120]},
+    {"name": "Elica", "expenses": [10, 40, 80, 95, 185]},
+    {"name": "Frast", "expenses": [40, 65, 80, 120, 190]},
+    {"name": "Grac", "expenses": [50, 60, 80, 85, 105]},
+    {"name": "Hen", "expenses": [45, 75, 80, 100, 185]},
+    {"name": "Jinx", "expenses": [15, 70, 80, 85, 110]},
+    {"name": "Jack", "expenses": [10, 60, 70, 100, 185]},
+    {"name": "Kelly", "expenses": [10, 55, 75, 80, 195]},
+    {"name": "Lia", "expenses": [10, 45, 80, 90, 190]},
+    {"name": "Mia", "expenses": [10, 70, 75, 90, 115]},
+    {"name": "Noah", "expenses": [10, 25, 50, 70, 185]},
+    {"name": "Via", "expenses": [10, 40, 70, 90, 195]},
+    {"name": "Piter", "expenses": [10, 80, 85, 90, 115]},
+    {"name": "Quinn", "expenses": [10, 35, 80, 105, 190]},
+    {"name": "Ryn", "expenses": [15, 75, 80, 100, 115]},
+    {"name": "Sopha", "expenses": [10, 65, 75, 80, 110]},
+    {"name": "Thom", "expenses": [10, 65, 85, 90, 110]}    
+]
