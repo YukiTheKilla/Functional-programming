@@ -1,12 +1,23 @@
 import telebot
-from telebot import types
 import config
 import random
 import requests
+import json
+from telebot import types
+from datetime import datetime
+import logging
+import sys
+
+# Configure logging with Unicode support
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s', handlers=[
+    logging.StreamHandler(stream=sys.stdout),  # No encoding argument
+])
 
 bot = telebot.TeleBot(config.token)
 
 previous_section = None
+
+button_history = []
 
 @bot.message_handler(commands=['start'])
 def start(message):
@@ -23,6 +34,14 @@ def start(message):
 @bot.message_handler(content_types=['text'])
 def func(message):
     global previous_section
+
+    # Log the button press in real-time
+    logging.info(f"Button Pressed: {message.text}")
+
+    button_history.append({"timestamp": str(datetime.now()), "button_pressed": message.text})
+
+    with open('5 laba/history.json', 'w', encoding='utf-8') as json_file:
+        json.dump(button_history, json_file, indent=4, ensure_ascii=False)
 
     if message.text == "❓ Задать вопрос":
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
